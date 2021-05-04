@@ -1,0 +1,49 @@
+h2 {
+    color: cadetblue;
+    text-align: center;
+    font-size: 2vw;
+}
+
+h4 {
+    color: cadetblue;
+    font-weight: bold;
+}
+
+body {
+    background-color:lightgray;
+}
+
+nav {
+    background-color: white;
+}
+
+section {
+    background-color: white;
+}
+
+.box {
+    position: fixed;
+    width: 150px;
+    height: 150px;
+    background: #2db34a;
+    border: 2px solid black;
+  }
+
+a.navbar-brand {
+    background-color: cadetblue;
+    color: white;
+}
+
+.navbar {
+    padding: inherit;
+}
+
+th, td {
+    text-align: left;
+    border: black 1em;
+}
+
+li {
+    list-style: none;
+}
+
